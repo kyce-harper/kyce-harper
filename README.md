@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kyce Harper</h1>
-<h3 align="center">Coder | Student | Creator</h3>
-
 - 🔭 I’m currently working on **Hockey Game ML Predictor**
-
-- 🌱 I’m currently learning **Machine Learning and python**
-
-- 🤝 I’m looking for help with **Podcasting**
+- 🌱 I’m currently learning **IBM Data Science Certificate**
 
 - ⚡ Fun fact **I absolutely love VR Gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kyce-harper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyce-harper" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kyceharper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kyceharper" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kyceharper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kyceharper" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
