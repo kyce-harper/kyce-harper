@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kyce Harper</h1>
 - 🔭 I’m currently working on **Hockey Game ML Predictor**
 - 🌱 I’m currently learning **IBM Data Science Certificate**
-
 - ⚡ Fun fact **I absolutely love VR Gaming**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kyce-harper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kyce-harper" height="30" width="40" /></a>
