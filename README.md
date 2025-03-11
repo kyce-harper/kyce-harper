@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyce Harper</h1>
-- 🔭 I’m currently working on **Hockey Game ML Predictor**
+- 🔭 I’m currently working on **Hockey Game ML Predictor** 
 - 🌱 I’m currently learning **IBM Data Analyst Certificate**
 
 
