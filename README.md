@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyce Harper</h1>
 - 🔭 I’m currently working on **Finance Manager** 
-- 🌱 I’m currently learning **IBM Data Analyst Certificate**
+- 🌱 I’m currently learning **IBM Data Engineer Certificate**
 
 
 - ⚡ Fun fact **I absolutely love VR Gaming**
